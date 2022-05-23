@@ -6,13 +6,21 @@
 Início
 
 ```
- Enquanto Existem disciplinas? Faça
-      Enquanto Existem alunos? Faça
-	Ler as notas de um aluno da disciplina em questão
-	Calcular a nota final
-	Exibir sua nota
-      Fim Enquanto
- Fim Enquanto    
+Digitar o RA
+Enquanto RA!= 0? Faça
+     Digitar a primeira nota
+     Digitar a segunda nota
+     Digitar a terceira nota
+     Calcular a média
+     Enquanto Média é Maior ou Igual a 8? faça
+          Informar que foi Aprovado
+     Fim Enquanto
+     Enquanto Média é Menor que 8 e Maior que 6? Faça
+          Informar que ficou de Recuperação
+     Fim Enquanto 
+     Enquanto Média é Igual ou Menor que 6? Faça 
+          Informar que foi Reprovado
+     Fim Enquanto	  
 ```
 
 Fim

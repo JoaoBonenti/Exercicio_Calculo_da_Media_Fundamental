@@ -18,7 +18,7 @@ Enquanto RA!= 0? Faça
      Enquanto Média é Menor que 8 e Maior que 6? Faça
           Informar que ficou de Recuperação
      Fim Enquanto 
-     Enquanto Média é Igual ou Menor que 6? Faça 
+     Enquanto Média é Menor ou Igual a 6? Faça 
           Informar que foi Reprovado
      Fim Enquanto	  
 ```
